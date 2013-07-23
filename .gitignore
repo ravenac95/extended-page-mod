@@ -1,0 +1,73 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.crx
+*.xpi
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+components
+
+#virtstrap
+quickactivate
+.vs.env
+
+#Ropeproject
+.ropeproject
+
+# Tox
+.tox
+
+# Other Python Specific
+*.egg-info
+*.egg
+*.EGG
+*.EGG-INFO
+bin
+build
+develop-eggs
+downloads
+eggs
+parts
+dist
+
+# Compile files
+*.so
+*.o
+*.exe
+*.com
+*.class
+*.dll
+*.pyc
+
+# jsduck docs
+docs
+.sass-cache
+.bundle
+other
+css
+
+# Project Specific
+legacy
+
+# Build Resources for extension
+.build_resources
+
+# Built files
+*.html.js
+*.xml.js
+
+# Add certain temporary paths and files
+build.save
+err_build.log
+.tmpsave
+

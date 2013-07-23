@@ -1,0 +1,9 @@
+{
+  "name": "extended-page-mod",
+  "description": "Create a pageMod that can exclude URLs",
+  "keywords": ["page-mod", "exclude"],
+  "author": "Reuven V. Gonzales <reuven@virtru.com>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": []
+}
